@@ -19,10 +19,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/favicon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.phoenixwolf.shamzdo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "66d9a34d-6ac0-43b8-9308-f94fea2f0d96"
+      }
     }
   }
 }
